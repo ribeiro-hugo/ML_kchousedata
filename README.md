@@ -1,7 +1,6 @@
-# ML_kchousedata
-PgDip Machine Learning and Artificial Intelligence
+# PgDip Machine Learning and Artificial Intelligence
 
-Study group - House Pricing prediction
+# Study group - House Pricing prediction
 
 Hey guys, so far we have discussed a lot of statistics and python, but not much about machine learning. So I started to play with some models in python to practice what we have learned.
 
